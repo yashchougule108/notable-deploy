@@ -11,23 +11,8 @@ const socialLinks = [
   {
     icon: <FaGithub />,
     name: 'GitHub',
-    url: 'https://github.com/sanchit339',
-  },
-  {
-    icon: <FaInstagram />,
-    name: 'Instagram',
-    url: 'https://www.instagram.com/___sanchit_3',
-  },
-  {
-    icon: <FaCode />,
-    name: 'Codeforces',
-    url: 'https://codeforces.com/profile/panther339',
-  },
-  {
-    icon: <FaCode />,
-    name: 'Codechef',
-    url: 'https://www.codechef.com/users/sanchit339',
-  },
+    url: 'https://github.com/yashchougule108',
+  }
 ];
 
 const About = () => {

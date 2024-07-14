@@ -6,7 +6,7 @@ const express = require('express')
 connectToMongo();
 
 const app = express()
-const port = 4001
+const port = 5001
 
 app.use(cors({
   origin: "*",
