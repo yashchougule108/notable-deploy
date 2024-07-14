@@ -6,7 +6,7 @@ const socialLinks = [
   {
     icon: <FaLinkedin />,
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/sanchit339',
+    url: 'http://www.linkedin.com/in/yash-chougule-70741423b',
   },
   {
     icon: <FaGithub />,
@@ -19,7 +19,7 @@ const About = () => {
   return (
     <div className="futuristic-template">
       <h2>About Me</h2>
-      <p>Hii I am Sanchit Ingale Thanks for visiting</p>
+      <p>Hii I am Yash Chougule Thanks for visiting</p>
 
       <div className="links-container">
         {socialLinks.map((link, index) => (
